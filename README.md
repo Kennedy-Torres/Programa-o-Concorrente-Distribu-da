@@ -1,2 +1,2 @@
-# Programa-o-Concorrente-Distribu-da
+# Programacao-Concorrente-Distribuida
 Faculdade - 5ªSemestre - Programação concorrente com linguagem distribuída
