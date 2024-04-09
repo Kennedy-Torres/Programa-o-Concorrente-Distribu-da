@@ -1,0 +1,8 @@
+*- palavra reservada; bloqueio de implementação; acesso restrito p/ uma única thread; São sinonimos para o método syncrhronized
+*- acho... synchronized é um tipo de monitor
+*- monitor sozinho garante acesso exclusivo(ou exclusão mutua) para acesso de uma thread
+*conceitos de synchronized e monitor, prova teorica*
+---
+
+obs.: para sair do bloco wait(), 1.faz a chamada do notify -> realiza alerta genéricos/ 2.atende a condicao do wait() ... "caso ñ atender ambos, fica travado"
+
